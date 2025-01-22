@@ -11,7 +11,7 @@ const questions = [
     optionA: "With 2 rececieve genes",
     optionB: "With 1 rececieve gene and 1 dominant gene",
     optionC: "With 2 dominant genes ",
-    correctOption: "optionB",
+    correctOption: "optionA",
   },
 
   {
