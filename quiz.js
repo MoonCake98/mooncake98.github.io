@@ -66,6 +66,24 @@ const questions = [
     correctOption: "optionD",
   },
 
+  {
+    question: "What does SRC stand for?",
+    optionA: "Severe Retroactive Cells",
+    optionB: "SCIDS-Receptive Cells",
+    optionC: "SCIDS-Repopulating Cells",
+    optionD: "SCIDS-Receptive Cells",
+    correctOption: "optionC",
+  },
+
+  {
+    question: "which cells do HCS's produce?",
+    optionA: "white blood cells",
+    optionB: "red blood cells",
+    optionC: "antigens",
+    optionD: "stem cells",
+    correctOption: "optionA",
+  },
+
 ];
 
 let shuffledQuestions = []; //empty array to hold shuffled selected questions out of all available questions
