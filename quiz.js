@@ -40,94 +40,32 @@ const questions = [
   },
 
   {
-    question: "Het eerste vraagje",
-    optionA: "aa",
-    optionB: "aa",
-    optionC: "aa",
-    optionD: "aa",
-    correctOption: "optionA",
-  },
-
-  {
-    question: "aa",
-    optionA: "Oceania",
-    optionB: "Antarctica",
-    optionC: "Africa",
-    optionD: "North America",
+    question: "A deficiency of what cell(s) is present in patients with SCID?",
+    optionA: "T-cells",
+    optionB: "B-cells",
+    optionC: "Both T- and B-cells",
+    optionD: "None of them",
     correctOption: "optionC",
   },
 
   {
-    question: "aa",
-    optionA: "Russia",
-    optionB: "Canada",
-    optionC: "Africa",
-    optionD: "Egypt",
+    question: "What is the first disease treated with a gene therapy?",
+    optionA: "ADA-SCID",
+    optionB: "Common cold",
+    optionC: "",
+    optionD: "",
     correctOption: "optionA",
   },
 
   {
-    question: "aa",
-    optionA: "Ten",
-    optionB: "Twelve",
-    optionC: "Eight",
-    optionD: "Eleven",
+    question: "What are some of the treatment options?",
+    optionA: "Stemcell transplantation (HSCT)",
+    optionB: "Enzyme replacement therapy",
+    optionC: "Gene therapy",
+    optionD: "All of the above",
     correctOption: "optionD",
   },
 
-  {
-    question: "aa",
-    optionA: "aa",
-    optionB: "aa",
-    optionC: "aa",
-    optionD: "aa",
-    correctOption: "optionD",
-  },
-
-  {
-    question: "aa",
-    optionA: "aa",
-    optionB: "aa",
-    optionC: "aa",
-    optionD: "aa",
-    correctOption: "optionC",
-  },
-
-  {
-    question: "aa",
-    optionA: "aa",
-    optionB: "aa",
-    optionC: "aa",
-    optionD: "aa",
-    correctOption: "optionA",
-  },
-
-  {
-    question: "vv",
-    optionA: "aa",
-    optionB: "aa",
-    optionC: "aa",
-    optionD: "aa",
-    correctOption: "optionB",
-  },
-
-  {
-    question: "bb",
-    optionA: "aa",
-    optionB: "aa",
-    optionC: "aa",
-    optionD: "aa",
-    correctOption: "optionD",
-  },
-
-  {
-    question: "W?",
-    optionA: "aa",
-    optionB: "aa",
-    optionC: "aa",
-    optionD: "aa",
-    correctOption: "optionA",
-  },
 ];
 
 let shuffledQuestions = []; //empty array to hold shuffled selected questions out of all available questions
