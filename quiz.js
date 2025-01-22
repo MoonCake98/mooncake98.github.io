@@ -84,6 +84,27 @@ const questions = [
     correctOption: "optionA",
   },
 
+  {
+    question: "Which cells are TRECs a byproduct of",
+    optionA: "B cells",
+    optionB: "T cells",
+    optionC: "HSCs",
+    correctOption: "optionB",
+  },
+
+
+  {
+    question: "Is TREC amount the decisive factor in a SCIDS diagnosis",
+    optionA: "yes",
+    optionB: "no",
+    optionC: "maybe",
+    correctOption: "optionB",
+  },
+
+
+
+
+
 ];
 
 let shuffledQuestions = []; //empty array to hold shuffled selected questions out of all available questions
